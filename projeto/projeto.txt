@@ -8,3 +8,5 @@ Terceiro commit 2
 
 Primeiro commit 3
 Segundo commit 3
+
+new line
