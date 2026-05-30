@@ -1,0 +1,15 @@
+Situação:
+
+- Criei a branch feature/feat-4 localmente a partir da main local 
+- 1 commit feature/feat-4
+- 1 commit feature/feat-4
+- 1 commit feature/feat-4
+- 1 commit feature/feat-4
+- 1 commit feature/feat-4
+- 1 commit feature/feat-4
+- Criei a branch feature/feat-5 localmente a partir da feature/feat-4
+- 1 commit feature/feat-5
+- 1 commit feature/feat-5
+- 1 push
+- Abrir o PR para a main 
+- Rebase do PR para a main 
