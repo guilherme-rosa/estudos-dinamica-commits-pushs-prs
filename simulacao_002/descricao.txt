@@ -6,4 +6,4 @@ Situação:
 - 1 commit
 - 1 push
 - Abrir o PR para a main 
-- Merge do PR para a main 
+- Squash do PR para a main 
