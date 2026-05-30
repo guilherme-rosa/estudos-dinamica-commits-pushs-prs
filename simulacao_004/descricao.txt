@@ -1,5 +1,3 @@
-Criei a branch feature/feat-3 localmente a partir da main (mais atualizada, após dar um fetch e um pull da main remota para a main local)
-
 Situação:
 
 - 1 commit main local
