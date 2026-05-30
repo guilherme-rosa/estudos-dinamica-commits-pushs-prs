@@ -1,0 +1,9 @@
+Situação:
+
+- Criei a branch feature/feat-6 localmente a partir da main local 
+- 1 commit feature/feat-6
+- 1 commit feature/feat-6
+- 1 push
+- Criei a branch feature/feat-7 remotamente a partir da feat-6
+- Abrir o PR para a main 
+- Merge do PR para a main 
