@@ -1,0 +1,9 @@
+Criei a branch feature/feat-2 localmente a partir da main (mais atualizada, após dar um fetch e um pull da main remota para a main local)
+
+Situação:
+
+- 1 commit
+- 1 commit
+- 1 push
+- Abrir o PR para a main 
+- Merge do PR para a main 
