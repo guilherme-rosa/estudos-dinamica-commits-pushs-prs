@@ -12,4 +12,4 @@ Situação:
 - 1 commit feature/feat-5
 - 1 push
 - Abrir o PR para a main 
-- Rebase do PR para a main 
+- Merge do PR para a main 

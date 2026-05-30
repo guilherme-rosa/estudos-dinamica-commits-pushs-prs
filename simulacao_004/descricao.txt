@@ -5,4 +5,4 @@ Situação:
 - Criei a branch feature/feat-4 localmente a partir da main local 
 - 1 push
 - Abrir o PR para a main 
-- Rebase do PR para a main 
+- Merge do PR para a main 
