@@ -1,0 +1,21 @@
+{
+  "ref": "refs/heads/feature/feat-1",
+  "before": "f1715530300156df5319623e85b1503643d9d859",
+  "after": "0000000000000000000000000000000000000000",
+  "repository": {
+    "name": "estudos-dinamica-commits-pushs-prs"
+  },
+  "pusher": {
+    "name": "guilherme-rosa",
+    "email": "30852096+guilherme-rosa@users.noreply.github.com"
+  },
+  "forced": false,
+  "created": false,
+  "deleted": true,
+  "base_ref": null,
+  "compare": "https://github.com/guilherme-rosa/estudos-dinamica-commits-pushs-prs/compare/f17155303001...000000000000",
+  "commits": [
+
+  ],
+  "head_commit": null
+}
